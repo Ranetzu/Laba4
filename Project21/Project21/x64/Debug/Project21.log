@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+  main.cpp
+C:\Users\Даниил\source\repos\Project21\Project21\main.cpp(9,32): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Создание кода...
+  main.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Project21.vcxproj -> C:\Users\Даниил\source\repos\Project21\x64\Debug\Project21.exe
