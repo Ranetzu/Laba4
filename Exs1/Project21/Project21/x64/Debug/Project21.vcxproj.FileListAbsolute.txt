@@ -1,4 +1,0 @@
-C:\Users\Даниил\source\repos\Project21\Project21\x64\Debug\Project21.vcxproj.AssemblyReference.cache
-C:\Users\Даниил\source\repos\Project21\Project21\x64\Debug\Project21.MyForm.resources
-C:\Users\Даниил\source\repos\Project21\Project21\x64\Debug\Project21.vcxproj.GenerateResource.cache
-C:\Users\Даниил\source\repos\Project21\Project21\x64\Debug\Project21.SaveData.resources
